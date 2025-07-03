@@ -8,8 +8,6 @@ Uma **API simples de agendamento de tarefas** desenvolvida com **PHP puro**, cri
 * 📌 Filtros por status (pendente, em andamento, concluída)
 * 📅 Datas de criação e conclusão
 
-```
-
 ## 🚀 Como usar
 
 ### Pré-requisitos
